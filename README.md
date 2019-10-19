@@ -1,2 +1,10 @@
-# hv-block-is-not-a-BIBD
+# hv-block is not a BIBD
+
 This repo accompanies my technique report: hv-block is not a BIBD.
+
+## Usage
+```python
+python hv-block <n> <v>
+```
+## Output file
+`n-v.csv`
